@@ -1,6 +1,5 @@
 # weather app with chatgpt
-
-A new Flutter project.
+Youtube Version 
 
 ## Getting Started
 
